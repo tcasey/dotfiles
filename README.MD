@@ -9,6 +9,14 @@ my personal setup
  - svgsus
  - spectacle
  - hyper
+ - framer
+ - origami
+ - figma
+ - helium
+ - graphiql
+ - sketch
+ - sketch-toolbox
+ - robomongo
 
 ## Atom Plugins
   - atom-ternjs
@@ -27,6 +35,11 @@ my personal setup
   - tool-bar
   - nuclide
 
+## Atom UI
+  - atom-material-syntax
+  - atom-material-ui
+  - atom-material-syntax-dark
+
 ## Chrome Extensions
   - momentum
   - wappalyzer
@@ -36,5 +49,19 @@ my personal setup
   - toby
 
 ## Useful Links
-  - [WebVim](https://github.com/vim-dist/webvim)
-  - [Git Signature](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
+- [WebVim](https://github.com/vim-dist/webvim)
+- [Git Signature](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
+- [Awesome Framer](https://github.com/podo/awesome-framer)
+- [Awesome Riot](https://github.com/pankajparashar/awesome-riotjs)
+- [Awesome Hyper](https://github.com/bnb/awesome-hyper)
+- [Awesome Atom](https://github.com/mehcode/awesome-atom)
+
+## Handy Commands
+
+### Disable default iTunes behavior with media keys in OSX
+
+`launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist`
+
+### Add space in Mac dock
+
+`defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock`
