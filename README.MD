@@ -51,10 +51,11 @@ my personal setup
 ## Useful Links
 - [WebVim](https://github.com/vim-dist/webvim)
 - [Git Signature](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
-- [Awesome Framer](https://github.com/podo/awesome-framer)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Riot](https://github.com/pankajparashar/awesome-riotjs)
 - [Awesome Hyper](https://github.com/bnb/awesome-hyper)
 - [Awesome Atom](https://github.com/mehcode/awesome-atom)
+- [Awesome Framer](https://github.com/podo/awesome-framer)
 
 ## Handy Commands
 
