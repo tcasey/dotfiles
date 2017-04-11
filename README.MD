@@ -29,6 +29,7 @@ my personal setup
   - linter
   - minimap
   - pigments
+  - react-snippets
   - sort-lines
   - prettier-atom
   - wakatime
@@ -36,9 +37,8 @@ my personal setup
   - nuclide
 
 ## Atom UI
-  - atom-material-syntax
-  - atom-material-ui
-  - atom-material-syntax-dark
+  - nova-atom-ui
+  - nova-atom-syntax
 
 ## Chrome Extensions
   - momentum

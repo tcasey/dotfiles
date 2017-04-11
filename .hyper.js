@@ -45,6 +45,7 @@ module.exports = {
    'hyper-mac-controls',
    'hyper-dark-scrollbar',
    'hyper-blink',
+   'nova-hyperterm'
  ],
 
  localPlugins: []
