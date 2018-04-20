@@ -1,0 +1,45 @@
+{
+  "vscode_custom_css.imports": ["/Users/trevor/.vscode/styles.css"],
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Operator Mono",
+  "editor.fontWeight": "400",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.5,
+  "files.trimTrailingWhitespace": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "none",
+  "editor.renderIndentGuides": false,
+  // this isn't really underline-thin but we hack it to be a thicker cursor
+  "editor.cursorStyle": "underline-thin",
+  "editor.cursorBlinking": "solid",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": true,
+  "editor.wordWrap": "on",
+  "editor.scrollBeyondLastLine": false,
+  // PRETTIER
+  "editor.formatOnSave": true,
+  // Enable/disable default JavaScript formatter (For Prettier)
+  "javascript.format.enable": true,
+  "prettier.eslintIntegration": true,
+  // IMPORT COST
+  "importCost.smallPackageColor": "#80ffbb",
+  "importCost.mediumPackageColor": "#80ffbb",
+  "importCost.largePackageColor": "#ff628c",
+  // REACT NATIVE STORYBOOK
+  "react-native-storybooks.host": "localhost",
+  "react-native-storybooks.port": 9001,
+  "react-native-storybooks.storyRegex": "**/*.story.*",
+  "react-native-storybooks.storybookFilterRegex": ".",
+  "workbench.sideBar.location": "left",
+  "window.titleBarStyle": "custom",
+  "window.title": "${rootName}",
+  "terminal.integrated.fontFamily": "Operator Mono",
+  "terminal.external.osxExec": "Hyper.app",
+  "terminal.integrated.fontLigatures": true,
+  "terminal.integrated.cursorBlinking": true,
+  "color-highlight.matchWords": false,
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Caddy"
+}
