@@ -9,7 +9,6 @@
 * spotify
 * postman
 * svgsus
-* [spectacle](https://www.spectacleapp.com/)
 * hyper
 * framer
 * origami
@@ -20,10 +19,15 @@
 * sketch-toolbox
 * robomongo
 * fog
+
+## Other
+
+* [spectacle](https://www.spectacleapp.com/)
 * [dash](https://kapeli.com/dash)
-* [clipy](https://clipy-app.com/)
 * [rocket](https://matthewpalmer.net/rocket/)
+* [clipy](https://clipy-app.com/)
 * [vanilla](https://matthewpalmer.net/vanilla/)
+* [aerial](https://github.com/JohnCoates/Aerial)
 * [station](https://getstation.com/)
 
 </details>
